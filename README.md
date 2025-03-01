@@ -1,5 +1,4 @@
 # Stock-analysis-with-AI
-# Stock Analysis with AI
 
 ## Project Description
 This project explores the application of Machine Learning, particularly Long Short-Term Memory (LSTM) networks, for forecasting stock prices. The developed solution aims to assist smaller investors in determining optimal holding periods for stocks by providing daily probability ratings for reaching a specified value.
