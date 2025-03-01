@@ -62,7 +62,8 @@ This project is licensed under the MIT License.
 
 ## Contact
 For any questions or suggestions, feel free to contact the authors.
-#-------------------------------------German version---------------
+
+## -------------------------------------German version---------------
 # Aktienanalyse mit KI
 
 ## Projektbeschreibung
